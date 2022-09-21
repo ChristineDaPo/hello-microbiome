@@ -6,3 +6,4 @@ cheese
 wine
 soy sauce
 kefir
+yogourt
